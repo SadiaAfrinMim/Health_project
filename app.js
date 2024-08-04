@@ -40,3 +40,7 @@ setTimeout(() =>{
    let health = healthcondition.innerHTML = 'You are Fit!';
 }, 2000);
 
+//coursor point
+new kursor({
+    type: 1
+})
